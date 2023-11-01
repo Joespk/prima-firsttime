@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Coruse" ALTER COLUMN "start_time" SET DATA TYPE TIME,
+ALTER COLUMN "duration" SET DATA TYPE INTEGER;
